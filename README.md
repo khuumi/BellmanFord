@@ -2,13 +2,10 @@
 Daniel Maxson
 DSM2157 
 
-
-a. This assignment was a lot harder than I had planned so I ended up spending several days on the assignment. The graph should converge and poison reverse works.
 I attempted to code LINKDOWN and LINKUP and CLOSE but currently they are only partially functioning. 
 
 Transfer is working completely as expected where both chunks will get concacted together and outputted to OUTPUT( currently set as "output.jpg"). 
 
-b. My developement enviroment was Sublime Text on a Mac and then a transfer of files over to CLIC using Cyberduck. All code works on ClIC. 
 
 c. Run the program the following way on each client with an appropiate config file:
 
