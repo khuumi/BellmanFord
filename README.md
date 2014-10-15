@@ -1,6 +1,7 @@
+Bellman Ford Simulation
+==============
 
-Daniel Maxson
-DSM2157 
+This python program is a simulation of the [Bellman Ford](http://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm "Bellman Ford Algorithm") algorithm. 
 
 I attempted to code LINKDOWN and LINKUP and CLOSE but currently they are only partially functioning. 
 
